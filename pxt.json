@@ -1,0 +1,13 @@
+{
+    "name": "pxt-smart-solder",
+    "version": "1.0.0",
+    "description": "Modules and lessons for the Smart Solder Kit.",
+    "license": "MIT",
+    "dependencies": {
+        "fwd-learn-to-solder": "github:Forward-Education/pxt-fwd-modules/fwd-smart-solder"
+    },
+    "files": [],
+    "testFiles": ["test.ts"],
+    "public": true,
+    "supportedTargets": ["microbit"]
+}
