@@ -6,7 +6,9 @@
     "dependencies": {
         "fwd-learn-to-solder": "github:Forward-Education/pxt-fwd-modules/fwd-smart-solder#v1.0.1"
     },
-    "files": [],
+    "files": [
+        "README.md"
+    ],
     "testFiles": [
         "test.ts"
     ],

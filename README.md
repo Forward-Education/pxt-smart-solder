@@ -2,7 +2,7 @@
 
 Smart Solder Kit, by Forward Education
 
-Find us at [forwardedu.com](https://forwardedu.com/) and [learn.forwardedu.com](https://learn.forwardedu.com/).
+Find us at [forwardedu.com](https://forwardedu.com/) and [learn.forwardedu.com](https://learn.forwardedu.com/). Learn more about the Hydroponics Kit on the [product page](https://forwardedu.com/products/smart-learn-to-solder-kit).
 
 ## Example Usage
 
