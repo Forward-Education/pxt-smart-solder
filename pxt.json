@@ -1,10 +1,10 @@
 {
-    "name": "pxt-fwd-smart-solder",
+    "name": "pxt-fwd-solder-3b3l",
     "version": "1.0.11",
     "description": "Modules and lessons for the Smart Solder Kit.",
     "license": "MIT",
     "dependencies": {
-        "fwd-learn-to-solder": "github:Forward-Education/pxt-fwd-modules/fwd-smart-solder#v1.0.1"
+        "fwd-solder-3b3l": "github:Forward-Education/pxt-fwd-modules/fwd-solder-3b3l#b222d6a42ac207565b2c2a67930dedc502cd55db"
     },
     "files": [
         "README.md"
