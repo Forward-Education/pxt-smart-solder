@@ -4,7 +4,7 @@
     "description": "Modules and lessons for the Smart Solder Kit.",
     "license": "MIT",
     "dependencies": {
-        "fwd-solder-3b3l": "github:Forward-Education/pxt-fwd-modules/fwd-solder-3b3l#b222d6a42ac207565b2c2a67930dedc502cd55db"
+        "fwd-solder-3b3l": "github:Forward-Education/pxt-fwd-modules/fwd-solder-3b3l#03e59ce328d359ced2b6acb0609e923ee2438883"
     },
     "files": [
         "README.md"
@@ -13,7 +13,12 @@
         "test.ts"
     ],
     "public": true,
+    "targetVersions": {
+        "target": "7.0.61",
+        "targetId": "microbit"
+    },
     "supportedTargets": [
         "microbit"
-    ]
+    ],
+	"preferredEditor": "tsprj"
 }

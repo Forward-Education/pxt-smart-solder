@@ -13,15 +13,15 @@ fwdButtons.BTN1.onEvent(jacdac.ButtonEvent.Hold, () =>
 
 // light tests
 // setOnOff(onOff: fwdEnums.OnOff)
-fwdLights.RED.setOnOff(fwdEnums.OnOff.Off) // this line simply ensures the simulator pops up without having to press A
+fwdLights.RED.setOnOff(fwdEnums.OnOff.Off) // need a client block in on start to trigger simulator / role manager behaviors
 input.onButtonPressed(Button.A, function () {
     console.log("Test Start")
     basic.pause(1000)
     fwdLights.RED.setOnOff(fwdEnums.OnOff.On)
-    console.log("Light on.")
+    console.log("Light on? " + fwdLights.RED.isOn())
     basic.pause(1000)
     fwdLights.RED.setOnOff(fwdEnums.OnOff.Off)
-    console.log("Light off.")
+    console.log("Light on? " + fwdLights.RED.isOn())
     basic.pause(1000)
     console.log("Test End")
 })
