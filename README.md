@@ -1,8 +1,16 @@
 # pxt-fwd-solder-3b3l
 
-Smart Solder Kit, by Forward Education for micro:bit V2.
+Smart Solder Kit, by Forward Education.
 
-Find us at [forwardedu.com](https://forwardedu.com/) and [learn.forwardedu.com](https://learn.forwardedu.com/). Learn more about the Hydroponics Kit on the [product page](https://forwardedu.com/products/smart-learn-to-solder-kit).
+Find us at [forwardedu.com](https://forwardedu.com/) and [learn.forwardedu.com](https://learn.forwardedu.com/). Learn more about the Smart Solder Kit on the [product page](https://forwardedu.com/products/smart-learn-to-solder-kit).
+
+### ~ reminder
+
+![works with micro:bit V2 only image](/static/v2/v2-only.png)
+
+These blocks require the [micro:bit V2](/device/v2). If you use them with a V1 micro:bit you will see the 927 error code on the screen.
+
+### ~
 
 ## Example Usage
 
